@@ -1,0 +1,10 @@
+def cargar_lista_usuario(lista):
+    for i in range(cantidad):
+        n = int(input("Ingrese un numero: "))
+        lista.append(n)
+    return lista
+
+cantidad = int(input("Ingrese la cantidad de numeros que deseas colocar en la lista: "))
+lista_1 = []
+lista_1 = cargar_lista_usuario(lista_1)
+print(lista_1)

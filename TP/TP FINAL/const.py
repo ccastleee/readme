@@ -1,0 +1,10 @@
+dolores = 5500
+mdq = 8500
+semi_cama = 2500
+lugar_salida = ["Plaza Constitución"]
+grupo = ["Diaz Juan", "Castillo Matias", "Regueira Camila", "Castillo Melani", "Lucero Micaela"]
+fecha_ferrocarril = ["07/05/2025", "08/05/2025", "09/05/2025", "F234", "F543", "F045"]
+dias = ["Miercoles 9:00 AM", "Jueves 9:00 AM", "Viernes 9:00 AM"]
+destinos = ["Dolores", "Estación Mar del Plata"]
+asientos = ["Simple", "Semi-cama"]
+ganancias = []
